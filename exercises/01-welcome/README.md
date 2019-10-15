@@ -3,13 +3,12 @@
 
 Hello, my name is [Alejandro Sanchez](http://alesanchezr.com) and I'm one of the founters of @4GeeksAcademy (coding bootcamp) these exercises and many other interactive tutorials have been open sourced and released to the public for free thru the [BreatheCode Website](www.BreatheCo.de).
 
-This exercises for anyone interested in mastering HTML/CSS Layouts, we will go over the following concepts:
+This exercises for anyone interested in mastering HTML Forms, we will go over the following concepts:
 
-1. Get familiar with most of the most popular HTML Tags for layouts like: Div's
-2. Using the display property.
-3. Using the position propert.
-4. Using float.
-5. Building the most common layouts in a typical website or application.
+1. Using inputs
+2. Form preventive validations
+3. GET vs POST
+4. styling a form
 
 ## ➡️ incremental & ✔️ Autograded
 

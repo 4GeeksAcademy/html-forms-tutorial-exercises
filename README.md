@@ -3,9 +3,9 @@
 </p>
 
 <p>
-    <h2 align="center"> Building HTML/CSS Layouts at 4Geeks Academy (beta) </h2>
+    <h2 align="center"> Building HTML Forms at 4Geeks Academy (beta) </h2>
 </p>
 
-Complete selection of autograded exercises, to learn how to make great layouts using display and position properties in CSS and HTML!
+Complete selection of autograded exercises, to learn how to use HTML Forms!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/layouts-exercises.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/form-exercises.git)
