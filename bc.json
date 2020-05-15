@@ -1,3 +1,39 @@
 {
-  "compiler": "vanillajs"
+    "port": 3000,
+    "address": "localhost",
+    "editor": "gitpod",
+    "outputPath": "./.breathecode/dist",
+    "publicPath": "/preview",
+    "grading": "isolated",
+    "ignoreRegex": null,
+    "webpack_template": null,
+    "disable_grading": false,
+    "onCompilerSuccess": "open-browser",
+    "language": "vanillajs",
+    "compiler": "vanillajs",
+    "tester": "jest",
+    "actions": [
+        "build",
+        "test",
+        "reset"
+    ],
+    "exercisesPath": "./exercises",
+    "exercises": [
+        {
+            "slug": "01-welcome",
+            "title": "01-welcome",
+            "path": "exercises/01-welcome",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "02-hello-world",
+            "title": "02-hello-world",
+            "path": "exercises/02-hello-world",
+            "translations": [
+                "us"
+            ]
+        }
+    ]
 }
