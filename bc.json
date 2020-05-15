@@ -1,39 +1,10 @@
 {
-    "port": 3000,
-    "address": "localhost",
-    "editor": "gitpod",
-    "outputPath": "./.breathecode/dist",
-    "publicPath": "/preview",
-    "grading": "isolated",
-    "ignoreRegex": null,
-    "webpack_template": null,
-    "disable_grading": false,
-    "onCompilerSuccess": "open-browser",
+    "title": "Learn HTML Forms",
+    "preview": "https://github.com/4GeeksAcademy/form-exercises/blob/master/.breathecode/assets/preview.png?raw=true",
+    "description": "Work with forms, prevent user errors and learn how to GET and POST from a form.",
     "language": "vanillajs",
-    "compiler": "vanillajs",
-    "tester": "jest",
-    "actions": [
-        "build",
-        "test",
-        "reset"
-    ],
-    "exercisesPath": "./exercises",
-    "exercises": [
-        {
-            "slug": "01-welcome",
-            "title": "01-welcome",
-            "path": "exercises/01-welcome",
-            "translations": [
-                "us"
-            ]
-        },
-        {
-            "slug": "02-hello-world",
-            "title": "02-hello-world",
-            "path": "exercises/02-hello-world",
-            "translations": [
-                "us"
-            ]
-        }
-    ]
+    "duration": 8,
+    "difficulty": "easy",
+    "video-solutions": false,
+    "graded": false
 }
