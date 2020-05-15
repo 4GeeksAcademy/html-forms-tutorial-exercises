@@ -8,4 +8,4 @@
 
 Complete selection of autograded exercises, to learn how to use HTML Forms!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/form-exercises.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises)
