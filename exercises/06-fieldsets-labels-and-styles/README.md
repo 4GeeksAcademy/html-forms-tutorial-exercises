@@ -2,10 +2,10 @@
 
 Styling a form is boring and tedious, but if you use certain tags you life can become more easy. 
 
-`<labels>`  
+`<label>`  
 One of the tipical things you need to do is add a "Label" to your input, lable's tell the end-user what the input stands for.
 
-`<fieldsets>`  
+`<fieldset>`  
 
 Are ideal to add several inputs into the same logical group (for example grouping to radios -male and female- into a gender fieldset).
 
