@@ -3,7 +3,7 @@
 Styling a form is boring and tedious, but if you use certain tags you life can become more easy. 
 
 `<label>`  
-One of the tipical things you need to do is add a "Label" to your input, lable's tell the end-user what the input stands for.
+One of the tipical things you need to do is add a "label" to your input, label's tell the end-user what the input stands for.
 
 `<fieldset>`  
 
