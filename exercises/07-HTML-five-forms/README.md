@@ -7,7 +7,7 @@ HTML5 brings some more cool tricks to forms, here is a few:
 - There is now a input type=tel, use it on the form for the phone number.
 - There is now a input type=url, use it on the form for the website
 
-You can use a required attribute to make it mandatory, apply the required attribute to the email only (the form won't submit until is not empty).
+You can use a 'required' attribute to make it mandatory. Apply the 'required' attribute to the email only (the form won't submit until is not empty).
 
 Using autofocus attribute will focus the cursor in that particular input when the website load. Apply the autofocus attribute to the email.
 

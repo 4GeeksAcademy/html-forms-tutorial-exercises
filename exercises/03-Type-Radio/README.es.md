@@ -1,6 +1,6 @@
-# `03` Type=Radio 
+# `03` Type Radio 
 
-El campo `input type=radio` es usado cuando el usuario solo puede escoger una opción y no más.
+El campo `input type=radio` se usa cuando el usuario solo puede escoger una opción y no más.
 
 Para agrupar varios radios en un mismo grupo de opciones debes asignarles el mismo nombre.
 
@@ -11,5 +11,5 @@ Para agrupar varios radios en un mismo grupo de opciones debes asignarles el mis
 
 ```txt
 📎 Nota: 
-Pruebe su forma, sólo un género y una orientación sexual debe ser permitido elegir.
+Pruebe tu formulario, sólo se debe poder elegir un género y una orientación sexual.
 ```
