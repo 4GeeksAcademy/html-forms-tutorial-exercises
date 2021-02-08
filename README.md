@@ -20,7 +20,7 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 4. styling a form
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4GeeksAcademy/html-forms-tutorial-exercises/master/preview.gif">
+  <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
 </p>
 
 <h2>One click installation:</h2>
