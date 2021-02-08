@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,128">
+  <img src="https://raw.githubusercontent.com/4GeeksAcademy/html-tutorial-exercises-course/master/.learn/assets/logo.ico">
 </p>
 
 <p>
