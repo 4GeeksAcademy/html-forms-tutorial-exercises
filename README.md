@@ -41,7 +41,7 @@ $ learnpack plugins:install learnpack-html
 
 ```
 $ learnpack download html-forms-tutorial-exercises
-$ cd html-tutorial-exercises-course
+$ cd html-forms-tutorial-exercises
 ```
 
 Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
