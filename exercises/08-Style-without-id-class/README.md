@@ -28,6 +28,6 @@ The only class selector you can keep using is `.active`
 
 At the and your form needs to look exactly the same as the original one, like this:
 
-![08-Style-without-id-class](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.breathecode/assets/Hl9RhW1.gif?raw=true)
+![08-Style-without-id-class](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/Hl9RhW1.gif?raw=true)
 
 
