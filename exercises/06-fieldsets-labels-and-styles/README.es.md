@@ -50,4 +50,4 @@ input[type=submit] {
 
 El resultado debería ser este:
 
-![06-fieldsets-labels-and-styles](https://github.com/4GeeksAcademy/form-exercises/blob/master/.breathecode/assets/NGmLdal.png?raw=true)
+![06-fieldsets-labels-and-styles](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/NGmLdal.png?raw=true)
