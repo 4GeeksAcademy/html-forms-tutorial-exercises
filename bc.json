@@ -1,11 +1,136 @@
 {
+    "port": 3000,
+    "address": "https://purple-lemur-n1g3cbix.ws-us03.gitpod.io",
+    "editor": "gitpod",
+    "configPath": {
+        "config": "bc.json",
+        "base": ".breathecode",
+        "exercises": "./exercises",
+        "output": ".breathecode/dist"
+    },
+    "outputPath": "./.learn/dist",
+    "publicPath": "/preview",
+    "grading": "isolated",
+    "ignoreRegex": null,
+    "webpack_template": null,
+    "disable_grading": false,
+    "onCompilerSuccess": "open-browser",
+    "language": "vanillajs",
+    "compiler": "webpack",
+    "tester": "jest",
+    "actions": [
+        "build",
+        "test",
+        "reset"
+    ],
     "title": "Learn HTML Forms",
     "preview": "https://github.com/4GeeksAcademy/form-exercises/blob/master/.breathecode/assets/preview.png?raw=true",
     "repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises",
     "description": "Work with forms, prevent user errors and learn how to GET and POST from a form.",
-    "language": "vanillajs",
     "duration": 8,
     "difficulty": "easy",
     "video-solutions": false,
-    "graded": false
+    "graded": false,
+    "session": 5846761655893205000,
+    "exercises": [
+        {
+            "slug": "01-welcome",
+            "title": "01-welcome",
+            "done": false,
+            "path": "exercises/01-welcome",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "02-hello-world",
+            "title": "02-hello-world",
+            "done": false,
+            "path": "exercises/02-hello-world",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": true
+        },
+        {
+            "slug": "03-Type-Radio",
+            "title": "03-Type-Radio",
+            "done": false,
+            "path": "exercises/03-Type-Radio",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "04-Replicate-simple-form",
+            "title": "04-Replicate-simple-form",
+            "done": false,
+            "path": "exercises/04-Replicate-simple-form",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "05-GET-vs-POST",
+            "title": "05-GET-vs-POST",
+            "done": false,
+            "path": "exercises/05-GET-vs-POST",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "06-fieldsets-labels-and-styles",
+            "title": "06-fieldsets-labels-and-styles",
+            "done": false,
+            "path": "exercises/06-fieldsets-labels-and-styles",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "07-HTML-five-forms",
+            "title": "07-HTML-five-forms",
+            "done": false,
+            "path": "exercises/07-HTML-five-forms",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "08-Style-without-id-class",
+            "title": "08-Style-without-id-class",
+            "done": false,
+            "path": "exercises/08-Style-without-id-class",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        },
+        {
+            "slug": "09-Spectacular-login-form",
+            "title": "09-Spectacular-login-form",
+            "done": false,
+            "path": "exercises/09-Spectacular-login-form",
+            "translations": [
+                "es",
+                "us"
+            ],
+            "graded": false
+        }
+    ]
 }
