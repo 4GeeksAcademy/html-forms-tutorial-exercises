@@ -1,6 +1,6 @@
 # HTML5 Forms Tutorial & Exercises
 
-<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/badge.png?raw=true"></a>
+<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/master-javascript-programming-exercises/blob/master/badge-master.png"></a>
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
