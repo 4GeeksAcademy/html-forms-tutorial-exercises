@@ -7,11 +7,11 @@
 
 ## 💡 Ayuda
 
-Puedes leer sobre la estructura típica de un sitio web aquí
+Puedes leer sobre la estructura típica de un sitio web aquí:
 https://content.breatheco.de/lesson/what-is-html-learn-html#page-structure
 
 ```txt
 📎 Nota
 
-El título no va a aparecer en el contenido de la página web, se mostrará en la pestaña del navegador.
+El título aparecerá en el contenido de la página web, se mostrará en la pestaña del navegador.
 ```

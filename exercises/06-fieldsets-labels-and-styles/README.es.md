@@ -15,7 +15,7 @@ Es el nombre del grupo de campos que se va a mostrar al usuario final.
 
 ## 📝 Instrucciones
 
-1. Haz que la fuente sea hermosa aplicando esta fuente al "body":
+1. Aplica un estilo a esta fuente aplicandándole al "body":
 
 ```css
 font-family: "Lato", sans-serif;
@@ -35,7 +35,7 @@ input[type=text] {
 }
 ```
 
-5. Aplica este estilo al botón de envío
+5. Aplica este estilo al botón de envío (submit).
 
 ```css
 input[type=submit] {
