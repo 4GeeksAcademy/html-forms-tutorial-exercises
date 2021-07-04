@@ -1,13 +1,14 @@
 # `06` Fieldsets, labels and styles
 
-Styling a form is boring and tedious, but if you use certain tags you life can become more easy. 
+Styling a form is boring and tedious, but if you use certain tags you life can bbe easier. 
 
 `<label>`  
+
 One of the tipical things you need to do is add a "label" to your input, label's tell the end-user what the input stands for.
 
 `<fieldset>`  
 
-Are ideal to add several inputs into the same logical group (for example grouping to radios -male and female- into a gender fieldset).
+Are ideal to add several inputs into the same logical group (for example grouping radios -male and female- into a gender fieldset).
 
 `<legend>`  
 
@@ -15,7 +16,7 @@ Is the name of the fieldset group that is going to be shown to the end-user.
 
 ## 📝 Instructions
 
-1. Make the font beautiful by applying this font to the body:
+1. Give a style to this font by aplying to the body:
 
 ```css
 font-family: "Lato", sans-serif;

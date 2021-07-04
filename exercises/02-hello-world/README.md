@@ -3,7 +3,8 @@
 ## 📝 Instructions:
 
 1. Add the basic HTML structure for any website (doctype, html, head and body)
-2. Add "Hello World" inside the title tag for the website.
+
+2. Add "Hello World" inside the title tag of the website.
 
 ## 💡 Hint
 
