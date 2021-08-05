@@ -5,5 +5,10 @@
     "difficulty": "begginer",
     "language": "html",
     "skills": ["html-forms"],
-    "repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises"
+    "repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises",
+    "config": {
+        "editor": {
+            "version": "1.0.69"
+        }
+    }
 }
