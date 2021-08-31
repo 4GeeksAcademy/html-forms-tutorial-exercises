@@ -7,6 +7,7 @@
     "skills": ["html-forms"],
     "repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises",
     "config": {
+        "disableGrading": true,
         "editor": {
             "version": "1.0.69"
         }
