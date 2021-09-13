@@ -7,6 +7,7 @@ Aquí tienes un hermoso formulario de inscripción, puedes leer el código para 
 Reemplaza todos los selectores `.class` y `#id` del `index.css` y sustitúyelos por otros tipos de selectores para lograr la misma referencia. Por ejemplo:
 
 Para este html:
+
 ```html
 <div><a class="myAnchor">Aquí hay un anchor</a></div>
 ```

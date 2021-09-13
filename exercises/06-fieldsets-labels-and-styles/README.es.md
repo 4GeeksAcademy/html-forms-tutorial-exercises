@@ -3,7 +3,8 @@
 Darle estilo de un formulario es aburrido y tedioso, pero si usas ciertas etiquetas, tu vida puede ser más fácil. 
 
 `<label>`  
-Una de las cosas recurrentes que debes hacer es agregar un etiqueta "label". Label le dice al usuario final que representa esa entrada/input.
+
+Una de las cosas recurrentes que debes hacer es agregar un etiqueta `label`. `label` le dice al usuario final que representa esa entrada/input.
 
 `<fieldset>` 
 
@@ -15,17 +16,23 @@ Es el nombre del grupo de campos que se va a mostrar al usuario final.
 
 ## 📝 Instrucciones
 
-1. Aplica un estilo a esta fuente aplicandándole al "body":
+1. Aplica un estilo a esta fuente aplicandándolo al "body":
 
 ```css
 font-family: "Lato", sans-serif;
 ```
 
-2. Elimina los bordes (border) y los márgenes (margin) de todos los campos. Aplica un relleno (padding) de 10px en la parte superior e inferior y un relleno (padding) de 0px a la izquierda y a la derecha. Aplicar un grosor de fuente de 800.
+2. Elimina los bordes (`border`) y los márgenes (`margin`) de todos los campos. 
 
-3. Disminuye el grosor de la fuente de todas las `label` a 400
+2. Aplica un relleno (`padding`) de `10px` en la parte superior e inferior 
 
-4. Aplica estas reglas a todas las entradas de texto
+3. y un relleno (`padding)` de `0px` a la izquierda y a la derecha. 
+
+4. Aplicar un grosor de fuente (`font-weight`) de `800`.
+
+5. Disminuye el grosor de la fuente (`font-weight`) de todas las `label` a `400`.
+
+6. Aplica estas reglas a todas las entradas (inputs) de texto.
 
 ```css
 input[type=text] {
@@ -35,7 +42,7 @@ input[type=text] {
 }
 ```
 
-5. Aplica este estilo al botón de envío (submit).
+7. Aplica este estilo al botón de envío (submit).
 
 ```css
 input[type=submit] {
@@ -48,6 +55,6 @@ input[type=submit] {
 }
 ```
 
-El resultado debería ser este:
+## El resultado debería ser este:
 
 ![06-fieldsets-labels-and-styles](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/NGmLdal.png?raw=true)

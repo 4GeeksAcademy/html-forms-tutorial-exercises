@@ -6,13 +6,12 @@
 
 2. Add "Hello World" inside the title tag of the website.
 
-## 💡 Hint
+## 💡 Hint:
 
-You can read about a typical website structure here
++ You can read about a typical website structure here:
+
 https://content.breatheco.de/lesson/what-is-html-learn-html#page-structure
 
-```txt
-📎 Note
+### 📎 Note:
 
 The title is not going to show on the content of the website, it will show on the browser tab.
-```

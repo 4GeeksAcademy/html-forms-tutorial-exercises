@@ -22,11 +22,15 @@ Is the name of the fieldset group that is going to be shown to the end-user.
 font-family: "Lato", sans-serif;
 ```
 
-2. Remove borders and margins from all the fieldsets. Apply a padding of 10px to the top and bottom and a padding of 0px to the left and right. Apply a font weight of 800.
+2. Remove `borders` and `margins` from all the fieldsets. 
 
-3. Decrease the font-weight off all the lable's to 400
+3. Apply a `padding` of `10px` to the top and bottom and a `padding` of `0px` to the left and right. 
 
-4. Apply these rules to all the text inputs
+4. Apply a `font-weight` of `800`.
+
+5. Decrease the `font-weight` off all the lable's to `400`.
+
+6. Apply these rules to all the text inputs:
 
 ```css
 input[type=text] {
@@ -36,7 +40,7 @@ input[type=text] {
 }
 ```
 
-5. Apply this style to the submit button
+7. Apply this style to the submit button
 
 ```css
 input[type=submit] {
@@ -49,6 +53,6 @@ input[type=submit] {
 }
 ```
 
-The result should look like this:
+## The result should look like this:
 
 ![06-fieldsets-labels-and-styles](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/NGmLdal.png?raw=true)
