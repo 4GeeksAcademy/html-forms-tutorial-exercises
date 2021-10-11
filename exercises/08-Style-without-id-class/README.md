@@ -2,9 +2,10 @@
 
 Here you have a beautiful signup form, you can read the code to understand how it was made.
 
-## 📝 Instructions
+## 📝 Instructions:
 
-Replace all the .class and #id selectors from index.css and replace them with other types of selectors to accomplish the same reference. For example:
+Replace all the `.class` and `#id` selectors from index.css with other types of selectors to accomplish the same reference.
+ For example:
 
 For this html:
 ```html

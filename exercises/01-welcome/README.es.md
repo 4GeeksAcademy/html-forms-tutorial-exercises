@@ -6,13 +6,17 @@ Hola, mi nombre es [Alejandro Sánchez](http://alesanchezr.com) y soy uno de los
 Estos ejercicios son para cualquier persona interesada en dominar los formularios HTML. Vamos a abordar los siguientes conceptos:
 
 1. Uso de entradas de formulario
+
 2. Validaciones de formulario
+
 3. GET vs POST
+
 4. Dar estilos a un formulario
 
 ## ➡️ Incremental y ✔️ autoevaluado
 
-- He construido los ejercicios de forma gradual. Deberías sentir el progreso poco a poco y, con suerte, el incremento de dificultad entre cada ejercicio nunca será demasiado grande para frustrarte.
+- He construido los ejercicios de forma gradual, deberías sentir el progreso poco a poco, y con suerte, la incrmento de dificultad entre cada ejercicio nunca será demasiado grande para frustrarte.
+
 - Todos los ejercicios han sido calificados automáticamente gracias a [@username](https://github.com/haydavid23)
 
 Presiona `next` en la parte superior de estas instrucciones para comenzar con el primer ejecicio.
