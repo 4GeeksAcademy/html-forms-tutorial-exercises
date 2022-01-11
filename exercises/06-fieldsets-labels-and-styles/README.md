@@ -55,4 +55,4 @@ input[type=submit] {
 
 ## The result should look like this:
 
-![06-fieldsets-labels-and-styles](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/NGmLdal.png?raw=true)
+![06-fieldsets-labels-and-styles](../../.learn/assets/NGmLdal.png?raw=true)
