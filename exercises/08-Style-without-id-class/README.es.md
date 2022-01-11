@@ -32,7 +32,7 @@ El único selector de clase que puedes seguir usando es `.active`.
 
 Al final, tu formulario debe verse exactamente igual al original. Así:
 
-![08-Style-without-id-class](../../master/.learn/assets/Hl9RhW1.gif?raw=true)
+![08-Style-without-id-class](../../.learn/assets/Hl9RhW1.gif?raw=true)
 
 
 
