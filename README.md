@@ -14,10 +14,10 @@
 Forms are so important in the world of HTML, CSS and Javascript that I decided to git them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn:
 
 1. Using text inputs, text areas, date inputs and numeric inputs.
-1. Using dropdowns.
-2. Form preventive validations
-3. GET vs POST
-4. styling a form
+2. Using dropdowns.
+3. Form preventive validations
+4. GET vs POST
+5. styling a form
 
 <p align="center">
   <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
@@ -69,6 +69,5 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) :computer: (idea) 🤔, (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentation) :book:
 
-This project follows the
-[all-contributors](https://github.com/kentcdodds/all-contributors)
+This project follows the[all-contributors](https://github.com/kentcdodds/all-contributors)
 specification. Contributions of any kind are welcome!
