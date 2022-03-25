@@ -61,14 +61,14 @@ Cada ejercicio es una pequeña aplicación de react que contiene los siguientes 
 
 1. **index.js:** representa el archivo de entrada para toda la aplicación.
 2. **README.md:** contiene las instrucciones de los ejercicios.
-3. **test.js:** no tienes que abrir este archivo, contiene el script de prueba para el ejercicio.
+3. **test.js:** no tienes que abrir este archivo, contiene el script del test para el ejercicio.
 
 ## Colaboradores
  
 Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribución: (codificador) 💻 (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 🤓 (tutorial de compilación) ✅ (documentación) 📖
-2. [David Hay (haydavid23)](https://github.com/haydavid23), contribución: (prueba) ⚠️
+2. [David Hay (haydavid23)](https://github.com/haydavid23), contribución: (tests) ⚠️
 3. [Daniel Machota (@d4rkm0nst3r)](https://github.com/d4rkm0nst3r), contribución: (build-tutorial) ✅, Traducción 🌍
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors). ¡Todas las contribuciones son bienvenidas!
