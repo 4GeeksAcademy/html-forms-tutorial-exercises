@@ -8,7 +8,7 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-<h3>E mpieza ahora </h3>
+### Empieza ahora
 <a href="https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a>
 
 Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que decidí decicarles un tutorial especial para enfocarme en todas las entradas/inputs, botones y elementos que HTML trae por defecto para centrarme en la interacción. En estos ejercicios aprenderás:
@@ -19,6 +19,14 @@ Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que de
 4. GET vs POST
 5. Diseñar un formulario
 
+#### Antes de empezar... hay otros tutoriales 
+
+<ol>
+  <li><a href="https://github.com/4GeeksAcademy/html-tutorial-exercises-course">Aprende HTML</a></li>
+    <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">Aprende Formularios HTML5 </a>← estás aquí</li>
+  <li><a href="https://github.com/4GeeksAcademy/css-tutorial-exercises-course">Aprende CSS</a>
+  <li><a href="https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial">Aprende Bootstrap</a></li>
+</ol>
 <p align="center">
   <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
 </p>
