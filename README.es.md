@@ -13,7 +13,7 @@
 
 Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que decidí decicarles un tutorial especial para enfocarme en todas las entradas/inputs, botones y elementos que HTML trae por defecto para centrarme en la interacción. En estos ejercicios aprenderás:
 
-1. Uso de entradas/inputs de texto,text areas, entradas/inputs de fecha y entradas/inputs numéricas.
+1. Uso de entradas/inputs de texto, text areas, entradas/inputs de fecha y entradas/inputs numéricas.
 2. Uso de dropdowns.
 3. Formar validaciones preventivas
 4. GET vs POST
