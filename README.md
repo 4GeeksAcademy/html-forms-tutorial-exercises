@@ -14,13 +14,16 @@
 Forms are so important in the world of HTML, CSS and Javascript that I decided to git them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn:
 
 1. Using text inputs, text areas, date inputs and numeric inputs.
+
 2. Using dropdowns.
-3. Form preventive validations
-4. GET vs POST
+
+3. Form preventive validations.
+
+4. GET vs POST.
+
 5. styling a form
 
 #### Before we start... other related tutorials
-
 <ol>
   <li><a href="https://github.com/4GeeksAcademy/html-tutorial-exercises-course">Learn HTML</a></li>
     <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">Learn HTML5 Forms</a>← your are here now</li>
@@ -35,10 +38,9 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git)
 
-
 ## Local installation
 
-1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 12+:
+1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 14+:
 
 ```
 $ npm i learnpack -g

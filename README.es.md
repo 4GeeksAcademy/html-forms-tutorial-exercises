@@ -14,13 +14,16 @@
 Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que decidí decicarles un tutorial especial para enfocarme en todas las entradas/inputs, botones y elementos que HTML trae por defecto para centrarme en la interacción. En estos ejercicios aprenderás:
 
 1. Uso de entradas/inputs de texto, text areas, entradas/inputs de fecha y entradas/inputs numéricas.
+
 2. Uso de dropdowns.
-3. Formar validaciones preventivas
-4. GET vs POST
-5. Diseñar un formulario
+
+3. Formar validaciones preventivas.
+
+4. GET vs POST.
+
+5. Diseñar un formulario.
 
 #### Antes de empezar... hay otros tutoriales 
-
 <ol>
   <li><a href="https://github.com/4GeeksAcademy/html-tutorial-exercises-course">Aprende HTML</a></li>
     <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">Aprende Formularios HTML5 </a>← estás aquí</li>
@@ -31,14 +34,13 @@ Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que de
   <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
 </p>
 
-## Instalación con un clic
+## Instalación en un clic
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git)
 
+## Instalación local:
 
-## Instalación manual
-
-1. Instala learnpack, el package manager para tutoriales de aprendizaje y el html compiler plugin para learnpack, asegúrate también de tener node.js 12+:
+1. Instala learnpack, el package manager para tutoriales de aprendizaje y el html compiler plugin para learnpack, asegúrate también de tener node.js 14+:
 
 ```
 $ npm i learnpack -g
@@ -76,7 +78,9 @@ Cada ejercicio es una pequeña aplicación de react que contiene los siguientes 
 Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribución: (codificador) 💻 (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 🤓 (tutorial de compilación) ✅ (documentación) 📖
+
 2. [David Hay (haydavid23)](https://github.com/haydavid23), contribución: (tests) ⚠️
+
 3. [Daniel Machota (@d4rkm0nst3r)](https://github.com/d4rkm0nst3r), contribución: (build-tutorial) ✅, Traducción 🌍
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors). ¡Todas las contribuciones son bienvenidas!
