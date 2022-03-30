@@ -14,23 +14,33 @@
 Forms are so important in the world of HTML, CSS and Javascript that I decided to git them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn:
 
 1. Using text inputs, text areas, date inputs and numeric inputs.
-1. Using dropdowns.
-2. Form preventive validations
-3. GET vs POST
-4. styling a form
 
+2. Using dropdowns.
+
+3. Form preventive validations.
+
+4. GET vs POST.
+
+5. styling a form
+
+#### Before we start... other related tutorials
+<ol>
+  <li><a href="https://github.com/4GeeksAcademy/html-tutorial-exercises-course">Learn HTML</a></li>
+    <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">Learn HTML5 Forms</a>← your are here now</li>
+  <li><a href="https://github.com/4GeeksAcademy/css-tutorial-exercises-course">Learn CSS</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial">Learn Bootstrap</a></li>
+</ol>
 <p align="center">
   <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
 </p>
 
-<h2>One click installation:</h2>
+## One click installation:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git)
 
-
 ## Local installation
 
-1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 12+:
+1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 14+:
 
 ```
 $ npm i learnpack -g
@@ -63,12 +73,11 @@ Each exercise is a small react application containing the following files:
 2. **README.md:** contains exercise instructions.
 3. **test.js:** you don't have to open this file, it contains the testing script for the exercise.
 
-## Contributors for this React Exercises
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) :computer: (idea) 🤔, (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentation) :book:
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder)  💻 (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 🤓 
+(build-tutorial) ✅  (documentation) 📖
 
-This project follows the
-[all-contributors](https://github.com/kentcdodds/all-contributors)
-specification. Contributions of any kind are welcome!
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind are welcome!
