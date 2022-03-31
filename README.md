@@ -1,5 +1,5 @@
 # HTML5 Forms Tutorial & Exercises
-
+<!-- hide -->
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/badge.png?raw=true"></a>
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
@@ -10,6 +10,7 @@
 
 <h3>Start now: </h3>
 <a href="https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a>
+<!-- endhide -->
 
 Forms are so important in the world of HTML, CSS and Javascript that I decided to git them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn:
 
@@ -23,6 +24,7 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 
 5. styling a form
 
+<!-- hide -->
 #### Before we start... other related tutorials
 <ol>
   <li><a href="https://github.com/4GeeksAcademy/html-tutorial-exercises-course">Learn HTML</a></li>
@@ -33,6 +35,7 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 <p align="center">
   <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
 </p>
+<!-- endhide -->
 
 ## One click installation:
 
