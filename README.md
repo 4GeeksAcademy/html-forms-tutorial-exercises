@@ -35,7 +35,7 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 <p align="center">
   <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
 </p>
-<!-- endhide -->
+
 
 ## One click installation:
 
@@ -66,7 +66,9 @@ $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 
-Note: The xercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
+Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
+
+<!-- endhide -->
 
 ## How are the React Tutorial Exercises organized?
 
