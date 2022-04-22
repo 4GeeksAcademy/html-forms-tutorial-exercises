@@ -1,5 +1,6 @@
-# Tutorial & Ejercicios de Formularios HTML5 
 <!-- hide -->
+# Tutorial & Ejercicios de Formularios HTML5 
+
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/badge.png?raw=true"></a>
 
 > Por [@alesanchezr](https://twitter.com/alesanchezr) y [otros colaboradores](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/graphs/contributors) de [4Geeks Academy](https://4geeksacademy.co/)
@@ -33,7 +34,7 @@ Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que de
 <p align="center">
   <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
 </p>
-<!-- endhide -->
+
 ## Instalación en un clic
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git)
@@ -64,6 +65,8 @@ $ learnpack start
 ```
 
 Nota: Estos ejercicios son autograduados. Los tests son muy rígidos y estrictos, mi recomendación es que ignores los tests y usarlas solo como una recomendación o puedes frustrarte.
+
+<!-- endhide -->
 
 ## ¿Cómo están organizados los ejercicios?
 
