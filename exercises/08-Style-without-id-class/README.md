@@ -4,7 +4,7 @@ Here you have a beautiful signup form, you can read the code to understand how i
 
 ## 📝 Instructions:
 
-Replace all the `.class` and `#id` selectors from index.css with other types of selectors to accomplish the same reference.
+Replace all the `.class` and `#id` selectors from index.html with other types of selectors to accomplish the same reference.
  For example:
 
 For this html:
