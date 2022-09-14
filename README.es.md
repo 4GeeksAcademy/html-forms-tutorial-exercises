@@ -12,7 +12,7 @@
 ### Empieza ahora
 <a href="https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a>
 <!-- endhide -->
-Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que decidí decicarles un tutorial especial para enfocarme en todas las entradas/inputs, botones y elementos que HTML trae por defecto para centrarme en la interacción. En estos ejercicios aprenderás:
+Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que decidí dedicarles un tutorial especial para enfocarme en todas las entradas/inputs, botones y elementos que HTML trae por defecto para centrarme en la interacción. En estos ejercicios aprenderás:
 
 1. Uso de entradas/inputs de texto, text areas, entradas/inputs de fecha y entradas/inputs numéricas.
 
