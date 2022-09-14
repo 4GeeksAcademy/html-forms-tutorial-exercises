@@ -19,4 +19,4 @@ Estos ejercicios son para cualquier persona interesada en dominar los formulario
 
 - Todos los ejercicios han sido calificados automáticamente gracias a [@username](https://github.com/haydavid23)
 
-Presiona `Next->` en la parte superior de estas instrucciones para comenzar con el primer ejecicio.
+Presiona `Next ->` en la parte superior de estas instrucciones para comenzar con el primer ejecicio.
