@@ -21,4 +21,4 @@ This exercises are for anyone interested in mastering HTML Forms, we will go ove
 
 - All exercises have been automatically graded thanks to [@username](https://github.com/haydavid23)
 
-Click the `next` link on the top of these instructions to begin with the first exercise.
+Click the `Next ->` button on the top of these instructions to begin with the first exercise.

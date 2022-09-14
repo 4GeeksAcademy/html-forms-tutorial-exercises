@@ -15,8 +15,8 @@ Estos ejercicios son para cualquier persona interesada en dominar los formulario
 
 ## ➡️ Incremental y ✔️ autoevaluado
 
-- He construido los ejercicios de forma gradual, deberías sentir el progreso poco a poco, y con suerte, la incrmento de dificultad entre cada ejercicio nunca será demasiado grande para frustrarte.
+- He construido los ejercicios de forma gradual, deberías sentir el progreso poco a poco, y con suerte, el incremento de dificultad entre cada ejercicio nunca será demasiado grande para frustrarte.
 
 - Todos los ejercicios han sido calificados automáticamente gracias a [@username](https://github.com/haydavid23)
 
-Presiona `next` en la parte superior de estas instrucciones para comenzar con el primer ejecicio.
+Presiona `Next ->` en la parte superior de estas instrucciones para comenzar con el primer ejecicio.
