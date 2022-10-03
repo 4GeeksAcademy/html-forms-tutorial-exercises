@@ -4,20 +4,23 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width" />
 		<title>4Geeks Academy</title>
-		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body>
 		<form action="#" method="get" target="_parent">
 			<fieldset>
 				<legend>Full Name</legend>
 				<label for="firstname">First:</label>
-				<input type="Text" name="firstname" placeholder="Your Name" />
+				<input type="Text" name="firstname" />
 				<label for="lastname">Last:</label>
-				<input type="Text" name="lastname" placeholder="Your Last Name" />
+				<input type="Text" name="lastname" />
+				<label for="lastname">Age:</label>
+				<input type="Text" name="age" />
 			</fieldset>
 			<fieldset>
-				<legend>Email</legend>
-				<input type="Text" name="email" placeholder="username@domain.com" />
+				<legend>Contact information</legend>
+				<input type="email" name="email" placeholder="username@domain.com" required autofocus />
+				<input type="tel" name="phone" placeholder="Mobile phone" />
+				<input type="url" name="website" placeholder="Personal Website URL" />
 			</fieldset>
 			<fieldset>
 				<legend>Gender</legend>
