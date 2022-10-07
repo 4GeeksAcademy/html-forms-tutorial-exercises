@@ -6,6 +6,8 @@
     "difficulty": "begginer",
     "language": "html",
     "skills": ["html-forms"],
+    "video_solutions": true,
+    "bugs_link": "https://github.com/learnpack/learnpack/issues/new",
     "repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises",
     "config": {
         "disableGrading": true,
