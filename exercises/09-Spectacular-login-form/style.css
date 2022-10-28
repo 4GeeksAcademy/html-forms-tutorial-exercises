@@ -1,0 +1,39 @@
+body {
+	background-color: rgb(12, 36, 114);
+}
+
+.login {
+	display: flex;
+	align-items: center;
+	justify-items: center;
+	flex-direction: column;
+
+	padding-top: 10%;
+}
+
+form * {
+	display: flex;
+	flex-direction: column;
+	margin: 12px;
+}
+
+input {
+	background-color: rgb(4, 4, 36);
+	border-radius: 5px;
+	width: 400px;
+	height: 40px;
+	color: white;
+}
+
+h1 {
+	color: white;
+}
+
+.btn {
+	width: 400px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: rgb(83, 83, 240);
+	color: white;
+	cursor: pointer;
+}
