@@ -8,6 +8,7 @@
     "skills": ["html-forms"],
     "videoSolutions": false,
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+    "projectType": "tutorial",
     "repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises",
     "config": {
         "disableGrading": true,
