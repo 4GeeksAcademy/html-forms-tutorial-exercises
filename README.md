@@ -41,7 +41,7 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git)
 
-## Local installation
+## Local installation:
 
 1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 14+:
 
@@ -66,7 +66,7 @@ $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 
-Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated :(
+Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated. :(
 
 <!-- endhide -->
 
