@@ -24,9 +24,9 @@ font-family: "Lato", sans-serif;
 
 2. Remove `borders` and `margins` from all the fieldsets. 
 
-3. Apply a `padding` of `10px` to the top and bottom and a `padding` of `0px` to the left and right. 
+3. Apply a `padding` of `10px` to the top and bottom and a `padding` of `0px` to the left and right to all the fieldsets. 
 
-4. Apply a `font-weight` of `800`.
+4. Apply a `font-weight` of `800` to all the fieldsets.
 
 5. Decrease the `font-weight` off all the lable's to `400`.
 
