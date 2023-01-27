@@ -24,11 +24,11 @@ font-family: "Lato", sans-serif;
 
 2. Elimina los bordes (`border`) y los márgenes (`margin`) de todos los campos. 
 
-2. Aplica un relleno (`padding`) de `10px` en la parte superior e inferior de todos los campos (fieldset). 
+2. Aplica un relleno (`padding`) de `10px` en la parte superior e inferior de todos los campos (`fieldset`). 
 
-3. Aplica un relleno (`padding)` de `0px` a la izquierda y a la derecha de todos los campos (fieldset). 
+3. Aplica un relleno (`padding)` de `0px` a la izquierda y a la derecha de todos los campos (`fieldset`). 
 
-4. Aplicar un grosor de fuente (`font-weight`) de `800` en todos los campos (fieldset).
+4. Aplicar un grosor de fuente (`font-weight`) de `800` en todos los campos (`fieldset`).
 
 5. Disminuye el grosor de la fuente (`font-weight`) de todas las `label` a `400`.
 
