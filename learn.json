@@ -9,7 +9,7 @@
         "us": "Form validations, inputs, textarea, date inputs, etc.",
         "es": "Validaciones de formularios, inputs, areas de texto (textarea), inputs de fechas, etc."
     },
-    "difficulty": "begginer",
+    "difficulty": "easy",
     "language": "html",
     "skills": ["html-forms"],
     "videoSolutions": false,
