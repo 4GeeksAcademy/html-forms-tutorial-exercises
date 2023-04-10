@@ -12,6 +12,7 @@
 ### Empieza ahora
 <a href="https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a>
 <!-- endhide -->
+
 Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que decidí dedicarles un tutorial especial para enfocarme en todas las entradas/inputs, botones y elementos que HTML trae por defecto para centrarme en la interacción. En estos ejercicios aprenderás:
 
 1. Uso de entradas/inputs de texto, text areas, entradas/inputs de fecha y entradas/inputs numéricas.
@@ -23,6 +24,7 @@ Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que de
 4. GET vs POST.
 
 5. Diseñar un formulario.
+
 <!-- hide -->
 #### Antes de empezar... hay otros tutoriales 
 <ol>
@@ -35,9 +37,11 @@ Los formularios son tan importantes en el mundo de HTML, CSS y Javascript que de
   <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
 </p>
 
-## Instalación en un clic
+## Instalación en un clic (recomendado)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git)
+Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/css-layouts-tutorial-exercises) (recomendado) o [Abrir en Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises.git).
+
+> Una vez ya tengas abirto VSCode los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
 
 ## Instalación local:
 
@@ -55,7 +59,7 @@ $ learnpack download html-forms-tutorial-exercises
 $ cd html-forms-tutorial-exercises
 ```
 
-Nota: Una vez que termines de descargar, encontrarás una carpeta "exercises" que contiene todos los ejercicios.
+> Nota: Una vez que termines de descargar, encontrarás una carpeta "exercises" que contiene todos los ejercicios.
 
 3. Inicializa el tutorial/ejercicios ejecutando el siguiente comando en el mismo nivel donde se encuentra tu archivo bc.json:
 
@@ -63,9 +67,6 @@ Nota: Una vez que termines de descargar, encontrarás una carpeta "exercises" qu
 $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
-
-Nota: Estos ejercicios son autograduados. Los tests son muy rígidos y estrictos, mi recomendación es que ignores los tests y usarlas solo como una recomendación o puedes frustrarte.
-
 <!-- endhide -->
 
 ## ¿Cómo están organizados los ejercicios?
@@ -75,6 +76,8 @@ Cada ejercicio es una pequeña aplicación de react que contiene los siguientes 
 1. **index.js:** representa el archivo de entrada para toda la aplicación.
 2. **README.md:** contiene las instrucciones de los ejercicios.
 3. **test.js:** no tienes que abrir este archivo, contiene el script del test para el ejercicio.
+
+> Nota: Estos ejercicios son autograduados. Los tests son muy rígidos y estrictos, mi recomendación es que ignores los tests y usarlos solo como una recomendación o puedes frustrarte.
 
 ## Colaboradores
  
