@@ -12,6 +12,8 @@
 <a href="https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a>
 <!-- endhide -->
 
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/README.es.md) :es:*
+
 Forms are so important in the world of HTML, CSS and Javascript that I decided to give them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn:
 
 1. Using text inputs, text areas, date inputs and numeric inputs.
@@ -36,10 +38,11 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
   <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
 </p>
 
+## One click installation (recommended):
 
-## One click installation:
+You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/html-forms-tutorial-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git).
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git)
+> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
 ## Local installation
 
@@ -57,7 +60,7 @@ $ learnpack download html-forms-tutorial-exercises
 $ cd html-forms-tutorial-exercises
 ```
 
-Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
+> Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
 
 3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
 
@@ -65,9 +68,6 @@ Note: Once you finish downloading, you will find a "exercises" folder that conta
 $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
-
-Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated :(
-
 <!-- endhide -->
 
 ## How are the React Tutorial Exercises organized?
@@ -77,6 +77,8 @@ Each exercise is a small react application containing the following files:
 1. **index.js:** represents the entry file for the entire exercise.
 2. **README.md:** contains exercise instructions.
 3. **test.js:** you don't have to open this file, it contains the testing script for the exercise.
+
+> Note: The exercises have automatic grading, but it's very rigid and string, my recommendation is to ignore the tests and use them only as a recommendation, or you can get frustrated :(
 
 ## Contributors
 
