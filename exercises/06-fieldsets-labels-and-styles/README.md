@@ -1,6 +1,6 @@
 # `06` Fieldsets, labels and styles
 
-Styling a form is boring and tedious, but if you use certain tags you life can bbe easier. 
+Styling a form is boring and tedious, but if you use certain tags you life can be easier. 
 
 `<label>`  
 
