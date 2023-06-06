@@ -52,7 +52,7 @@ $ npm i learnpack -g
 $ learnpack plugins:install learnpack-html
 ```
 
-2. Download these particular exercises using learnpack and `cd` into the folder:
+2. Download these particular exercises using LearnPack and `cd` into the folder:
 
 ```bash
 $ learnpack download html-forms-tutorial-exercises
