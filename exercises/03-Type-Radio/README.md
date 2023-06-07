@@ -6,10 +6,10 @@ To group bind to different radios into the same group of options you need to ass
 
 ## 📝 Instructions:
 
-- Create 2 input `type=radio` to pick the gender values: Male or Female.
+1. Create 2 input `type=radio` to pick the gender values: Male or Female.
 
-- Create another 2 input `type=radio` to pick sexual orientation: Heterosexual or LGBTI.
+2. Create another 2 input `type=radio` to pick sexual orientation: Heterosexual or LGBTI.
 
-### 📎 Nota:
+### 📎 Note:
 
 Test your form, only one gender and one sexual orientation should be allowed to pick.
