@@ -69,7 +69,7 @@ $ learnpack start
 ```
 <!-- endhide -->
 
-## How are the React Tutorial Exercises organized?
+## How are the exercises organized?
 
 Each exercise is a small React application containing the following files:
 
