@@ -24,7 +24,7 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 
 4. GET vs POST.
 
-5. Styling a form
+5. Styling a form.
 
 <!-- hide -->
 #### Before we start... other related tutorials
