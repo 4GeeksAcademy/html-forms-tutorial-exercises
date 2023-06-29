@@ -5,7 +5,7 @@ Hello, my name is [Alejandro Sanchez](http://alesanchezr.com) and I'm one of the
 
 These exercises and many other interactive tutorials have been open sourced and released to the public for free thru the [BreatheCode Website](www.BreatheCo.de).
 
-This exercises are for anyone interested in mastering HTML Forms, we will go over the following concepts:
+These exercises are for anyone interested in mastering HTML Forms, we will go over the following concepts:
 
 1. Using inputs
 
@@ -17,7 +17,7 @@ This exercises are for anyone interested in mastering HTML Forms, we will go ove
 
 ## ➡️ Incremental & Autograded
 
-- I've built the exercises incrementally, you should feel the progress little by little, and hopefully, the difficulty raising between exercises will never be too big to get you frustrated.
+- I've built the exercises incrementally, so you should feel the progress little by little, and hopefully, the difficulty raising between exercises will never be too big to get you frustrated.
 
 - All exercises have been automatically graded thanks to [@username](https://github.com/haydavid23)
 
