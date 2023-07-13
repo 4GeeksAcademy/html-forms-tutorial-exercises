@@ -32,10 +32,31 @@ describe('basic HTML structure', function () {
     })
     test("the radio inputs should have the requested values, aka, Male, Female, Heterosexual, LGBTI", function () {
        let inpts = document.querySelectorAll("input[type=radio]")
-        let requestedValues = ["Male", "Female", "Heterosexual", "LGBTI"]
+        let requestedValues_en = ["Male", "Female", "Heterosexual", "LGBTI"]
+        let requestedValues_es = ["Masculino", "Femenino", "Heterosexual", "LGTBI"]
+
+        let check_en = false
+        let check_es = false
+
+        for(let idx = 0; idx < inpts.length; idx++) {
+            check_en = inpts[idx].getAttribute("value") === requestedValues_en[idx];
+
+            if (!check_en){
+                break;
+            }
+        }
+
+        for(let idx = 0; idx < inpts.length; idx++) {
+            check_es = inpts[idx].getAttribute("value") === requestedValues_es[idx];
+            if (!check_es){
+                break;
+            }
+        }
+
+        let expected = check_en || check_es
 
         inpts.forEach((e,idx) => {
-            expect(e.getAttribute("value")).toBe(requestedValues[idx]);
+            expect(expected).toBeTruthy()
         })
     })
     test("there should only be two unique names, one per pair of radio inputs", function () {
