@@ -1,22 +1,22 @@
 # `06` Fieldsets, labels and styles
 
-Styling a form is boring and tedious, but if you use certain tags you life can bbe easier. 
+Styling a form is boring and tedious, but if you use certain tags, your life can be easier. 
 
 `<label>`  
 
-One of the tipical things you need to do is add a "label" to your input, label's tell the end-user what the input stands for.
+One of the typical things you need to do is add a "label" to your input, label's tell the end-user what the input stands for.
 
 `<fieldset>`  
 
-Are ideal to add several inputs into the same logical group (for example grouping radios -male and female- into a gender fieldset).
+They are ideal to add several inputs into the same logical group (for example grouping radios -male and female- into a gender fieldset).
 
 `<legend>`  
 
-Is the name of the fieldset group that is going to be shown to the end-user.
+It's the name of the fieldset group that is going to be shown to the end-user.
 
-## 📝 Instructions
+## 📝 Instructions:
 
-1. Give a style to this font by aplying to the body:
+1. Give style to this form by applying to the body:
 
 ```css
 font-family: "Lato", sans-serif;
@@ -28,7 +28,7 @@ font-family: "Lato", sans-serif;
 
 4. Apply a `font-weight` of `800` to all the fieldsets.
 
-5. Decrease the `font-weight` off all the lable's to `400`.
+5. Decrease the `font-weight` off all the labels to `400`.
 
 6. Apply these rules to all the text inputs:
 
@@ -40,7 +40,7 @@ input[type=text] {
 }
 ```
 
-7. Apply this style to the submit button
+7. Apply this style to the submit button:
 
 ```css
 input[type=submit] {
@@ -53,6 +53,6 @@ input[type=submit] {
 }
 ```
 
-## The result should look like this:
+## 💻 Expected Result:
 
 ![06-fieldsets-labels-and-styles](../../.learn/assets/NGmLdal.png?raw=true)
