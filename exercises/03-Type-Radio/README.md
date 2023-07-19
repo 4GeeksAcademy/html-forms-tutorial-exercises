@@ -10,6 +10,8 @@ To bind different radios into the same group of options you need to assign them 
 
 2. Create another 2 input `type=radio` to pick sexual orientation: Heterosexual or LGBTI.
 
-### 📎 Note:
+## 💡 Hint:
 
-Test your form, only one gender and one sexual orientation should be allowed to pick.
++ Search about `<input>` and `<label>` tags.
+
++ Test your form, only one gender and one sexual orientation should be allowed to pick.
