@@ -10,6 +10,8 @@ Para agrupar varios radios en un mismo grupo de opciones debes asignarles el mis
 
 2. Crea otros 2 input `type=radio` para elegir las orientaciones sexuales: Heterosexual o LGTBI.
 
-### 📎 Nota: 
+## 💡 Pistas: 
 
-Prueba tu formulario, sólo se debe poder elegir un género y una orientación sexual.
++ Investiga sobre las etiquetas `<input>` y `<label>`.
+
++ Prueba tu formulario, solo se debe poder elegir un género y una orientación sexual.
