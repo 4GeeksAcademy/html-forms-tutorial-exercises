@@ -4,25 +4,24 @@ Here you have a beautiful signup form, you can read the code to understand how i
 
 ## 📝 Instructions:
 
-Replace all the `.class` and `#id` selectors from index.html with other types of selectors to accomplish the same reference.
- For example:
+Replace all the `.class` and `#id` selectors from `index.html` with other types of selectors to accomplish the same reference. For example:
 
 For this HTML:
+
 ```html
 <div><a class="myAnchor">Here is an anchor</a></div>
 ```
 
-Instead of doing
+Instead of doing:
+
 ```css
-<style>
 .myAnchor { background: red; }
-</style>
 ```
-Your could do
+
+You could do:
+
 ```css
-<style>
 a { background:red; }
-</style>
 ```
 
 The only class selector you can keep using is `.active`
