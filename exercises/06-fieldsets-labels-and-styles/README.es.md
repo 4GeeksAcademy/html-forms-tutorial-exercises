@@ -1,10 +1,10 @@
-# `06` Campos, etiquetas y estilos
+# `06` Fieldsets, labels and styles
 
-Darle estilo de un formulario es aburrido y tedioso, pero si usas ciertas etiquetas, tu vida puede ser más fácil. 
+Darle estilo a un formulario es aburrido y tedioso, pero si usas ciertas etiquetas, tu vida puede ser más fácil. 
 
 `<label>`  
 
-Una de las cosas recurrentes que debes hacer es agregar un etiqueta `label`. `label` le dice al usuario final que representa esa entrada/input.
+Una de las cosas recurrentes que debes hacer es agregar una etiqueta `label`. `label` le dice al usuario final que representa esa entrada/input.
 
 `<fieldset>` 
 
