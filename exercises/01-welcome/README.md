@@ -15,7 +15,7 @@ These exercises are for anyone interested in mastering HTML Forms, we will go ov
 
 5. Styling a form
 
-## ➡️ Incremental & Autograded
+## ➡️ Incremental & ✔️ Autograded
 
 - I've built the exercises incrementally, you should feel the progress little by little, and hopefully, the difficulty raising between exercises will never be too big to get you frustrated.
 
