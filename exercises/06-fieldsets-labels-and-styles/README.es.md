@@ -10,7 +10,7 @@ Darle estilo a un formulario es aburrido y tedioso, pero si usas ciertas etiquet
 
 ## 📝 Instrucciones:
 
-1. Da estilo a este formulario aplicando al `<body>` esta fuente:
+1. Da estilo al formulario aplicando al `<body>` esta fuente:
 
 ```css
 font-family: "Lato", sans-serif;
