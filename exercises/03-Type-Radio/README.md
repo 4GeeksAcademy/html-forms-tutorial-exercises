@@ -1,6 +1,6 @@
 # `03` Type Radio 
 
-The input type=radio is used when the user is not allowed to pick more than one option.
+The `input type=radio` is used when the user is not allowed to pick more than one option.
 
 To group bind to different radios into the same group of options you need to assign them the same name.
 
