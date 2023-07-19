@@ -10,7 +10,7 @@
 
 + Puedes leer sobre la estructura típica de un sitio web aquí:
 
-https://4geeks.com/es/lesson/what-is-html-learn-html-es
+https://4geeks.com/es/lesson/what-is-html-learn-html-es#estructura-de-pgina
 
 ## 📎 Nota:
 
