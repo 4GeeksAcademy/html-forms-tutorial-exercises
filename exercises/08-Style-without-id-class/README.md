@@ -7,7 +7,7 @@ Here you have a beautiful signup form, you can read the code to understand how i
 Replace all the `.class` and `#id` selectors from index.html with other types of selectors to accomplish the same reference.
  For example:
 
-For this html:
+For this HTML:
 ```html
 <div><a class="myAnchor">Here is an anchor</a></div>
 ```
@@ -15,13 +15,13 @@ For this html:
 Instead of doing
 ```css
 <style>
-.myAnchor{ background: red; }
+.myAnchor { background: red; }
 </style>
 ```
 Your could do
 ```css
 <style>
-a{ background:red;}
+a { background:red; }
 </style>
 ```
 
