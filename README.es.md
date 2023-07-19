@@ -23,7 +23,7 @@ Los formularios son tan importantes en el mundo de HTML, CSS y JavaScript que de
 
 4. GET vs POST.
 
-5. Estilizar un formulario.
+5. Dar estilos a un formulario.
 
 <!-- hide -->
 #### Antes de empezar... hay otros tutoriales 
