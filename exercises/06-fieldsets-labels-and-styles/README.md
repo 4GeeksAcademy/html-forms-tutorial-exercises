@@ -2,17 +2,11 @@
 
 Styling a form is boring and tedious, but if you use certain tags, your life can be easier. 
 
-`<label>`  
+`<label>`: One of the typical things you need to do is add a "label" to your input, labels tell the end-user what the input stands for.
 
-One of the typical things you need to do is add a "label" to your input, label's tell the end-user what the input stands for.
+`<fieldset>`: They are ideal to add several inputs into the same logical group (for example grouping radios -male and female- into a gender fieldset).
 
-`<fieldset>`  
-
-They are ideal to add several inputs into the same logical group (for example grouping radios -male and female- into a gender fieldset).
-
-`<legend>`  
-
-It's the name of the fieldset group that is going to be shown to the end-user.
+`<legend>`: It's the name of the fieldset group that is going to be shown to the end-user.
 
 ## 📝 Instructions:
 
@@ -30,7 +24,9 @@ font-family: "Lato", sans-serif;
 
 5. Decrease the `font-weight` off all the labels to `400`.
 
-6. Apply these rules to all the text inputs:
+6. Add a `width` of `500px` to the form element.
+
+7. Apply these rules to all the text inputs:
 
 ```css
 input[type=text] {
