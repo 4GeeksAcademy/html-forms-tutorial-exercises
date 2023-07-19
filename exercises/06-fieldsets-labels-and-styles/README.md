@@ -24,7 +24,7 @@ font-family: "Lato", sans-serif;
 
 5. Decrease the `font-weight` of all the `<label>` tags to `400`.
 
-6. Add a `width` of `500px` to the `<form>` tag.
+6. Set the `display` of the `<form>` tag to `inline-block`.
 
 7. Apply these rules to all the text inputs:
 
