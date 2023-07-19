@@ -16,15 +16,15 @@ Darle estilo a un formulario es aburrido y tedioso, pero si usas ciertas etiquet
 font-family: "Lato", sans-serif;
 ```
 
-2. Elimina los bordes (`border`) y los márgenes (`margin`) de todos los `<fieldset>`. 
+2. Establece el `display` de la etiqueta `<form>` a `inline-block`.
 
-2. Aplica un relleno (`padding`) de `10px` en la parte superior e inferior y de `0px` a la izquierda y derecha de todos los `<fieldset>`
+3. Elimina los bordes (`border`) y los márgenes (`margin`) de todos los `<fieldset>`. 
 
-4. Aplicar un grosor de fuente (`font-weight`) de `800` en todos los `<fieldset>`.
+4. Aplica un relleno (`padding`) de `10px` en la parte superior e inferior y de `0px` a la izquierda y derecha de todos los `<fieldset>`
 
-5. Disminuye el grosor de la fuente (`font-weight`) de todas las `<label>` a `400`.
+5. Aplicar un grosor de fuente (`font-weight`) de `800` en todos los `<fieldset>`.
 
-6. Establece el `display` de la etiqueta `<form>` a `inline-block`.
+6. Disminuye el grosor de la fuente (`font-weight`) de todas las `<label>` a `400`.
 
 7. Aplica estas reglas a todas las entradas (inputs) de texto.
 
@@ -36,7 +36,7 @@ input[type=text] {
 }
 ```
 
-7. Aplica este estilo al botón de envío (submit button).
+8. Aplica este estilo al botón de envío (submit button).
 
 ```css
 input[type=submit] {
