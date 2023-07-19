@@ -16,17 +16,17 @@ Styling a form is boring and tedious, but if you use certain tags, your life can
 font-family: "Lato", sans-serif;
 ```
 
-2. Remove `borders` and `margins` from all the `<fieldset>` tags. 
+2. Set the `display` of the `<form>` tag to `inline-block`.
+   
+4. Remove `borders` and `margins` from all the `<fieldset>` tags. 
 
-3. Apply a `padding` of `10px` to the top and bottom and a `padding` of `0px` to the left and right of all the `<fieldset>` tags. 
+5. Apply a `padding` of `10px` to the top and bottom and a `padding` of `0px` to the left and right of all the `<fieldset>` tags. 
 
-4. Apply a `font-weight` of `800` to all the `<fieldset>` tags.
+6. Apply a `font-weight` of `800` to all the `<fieldset>` tags.
 
-5. Decrease the `font-weight` of all the `<label>` tags to `400`.
+7. Decrease the `font-weight` of all the `<label>` tags to `400`.
 
-6. Set the `display` of the `<form>` tag to `inline-block`.
-
-7. Apply these rules to all the text inputs:
+9. Apply these rules to all the text inputs:
 
 ```css
 input[type=text] {
