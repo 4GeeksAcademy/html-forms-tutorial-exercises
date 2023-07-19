@@ -24,7 +24,7 @@ font-family: "Lato", sans-serif;
 
 5. Disminuye el grosor de la fuente (`font-weight`) de todas las `<label>` a `400`.
 
-6. Añade un grosor (`width`) de `500px` a la etiqueta `<form>`.
+6. Establece el `display` de la etiqueta `<form>` a `inline-block`.
 
 7. Aplica estas reglas a todas las entradas (inputs) de texto.
 
