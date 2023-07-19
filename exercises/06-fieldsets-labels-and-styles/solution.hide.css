@@ -1,10 +1,14 @@
-form * {
-	border: none;
-	margin: 0;
-}
-
 body {
 	font-family: "Lato", sans-serif;
+}
+
+form {
+	display: inline-block;
+}
+
+fieldset {
+	border: none;
+	margin: 0;
 	padding: 10px 0px;
 	font-weight: 800;
 }

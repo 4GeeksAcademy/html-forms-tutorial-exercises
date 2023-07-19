@@ -1,6 +1,6 @@
 # `05` GET vs POST
 
-Follow these steps:
+## 📝 Instructions:
 
 1. Run the exercise.
 
