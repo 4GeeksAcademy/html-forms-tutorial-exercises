@@ -19,7 +19,7 @@ Los formularios son tan importantes en el mundo de HTML, CSS y JavaScript que de
 
 2. Uso de dropdowns.
 
-3. Formar validaciones preventivas.
+3. Validaciones de formulario.
 
 4. GET vs POST.
 
