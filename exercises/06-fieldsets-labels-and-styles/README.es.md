@@ -6,7 +6,7 @@ Darle estilo a un formulario es aburrido y tedioso, pero si usas ciertas etiquet
 
 `<fieldset>`: Son ideales para añadir varias entradas en el mismo grupo lógico (por ejemplo, agrupar a los input radio -hombre y mujer- en un conjunto de campos de sexo).
 
-`<legend>`: Es el nombre del grupo de campos que se va a mostrar al usuario.
+`<legend>`: Es el nombre del grupo de campos que se van a mostrar al usuario.
 
 ## 📝 Instrucciones:
 
