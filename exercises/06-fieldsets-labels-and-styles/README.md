@@ -36,7 +36,7 @@ input[type=text] {
 }
 ```
 
-7. Apply this style to the submit button:
+8. Apply this style to the submit button:
 
 ```css
 input[type=submit] {
