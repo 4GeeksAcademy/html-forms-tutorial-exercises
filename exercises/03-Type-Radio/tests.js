@@ -9,7 +9,7 @@ describe('basic HTML structure', function () {
     beforeEach(() => { document.documentElement.innerHTML = html.toString(); });
     afterEach(() => { jest.resetModules(); });
 
-     it('order of HTML tags', function () {
+     it('Correct order of HTML tags', function () {
         let a = document.documentElement.innerHTML = html.toString()
         let b = a.indexOf("<!DOCTYPE html>")
         let c = a.indexOf("<html")
@@ -25,12 +25,12 @@ describe('basic HTML structure', function () {
 
     })
 
-    test("there should be four input elements of type radio", function () {
+    test("There should be four input elements of type radio", function () {
         let inpts = document.querySelectorAll("input[type=radio]")
         
         expect(inpts.length).toEqual(4)
     })
-    test("the radio inputs should have the requested values, aka, Male, Female, Heterosexual, LGBTI", function () {
+    test("The radio inputs should have the requested values: Male, Female, Heterosexual, LGBTI", function () {
        let inpts = document.querySelectorAll("input[type=radio]")
         let requestedValues_en = ["Male", "Female", "Heterosexual", "LGBTI"]
         let requestedValues_es = ["Masculino", "Femenino", "Heterosexual", "LGTBI"]
@@ -59,7 +59,7 @@ describe('basic HTML structure', function () {
             expect(expected).toBeTruthy()
         })
     })
-    test("there should only be two unique names, one per pair of radio inputs", function () {
+    test("There should only be two unique names, one per pair of radio inputs", function () {
        let inpts = document.querySelectorAll("input[type=radio]")
         let firstName =  inpts[0].getAttribute("name")
         let secondName =  inpts[2].getAttribute("name")
