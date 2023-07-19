@@ -2,7 +2,7 @@
 
 Styling a form is boring and tedious, but if you use certain tags, your life can be easier. 
 
-`<label>`: One of the typical things you need to do is add a "label" to your input, labels tell the end-user what the input stands for.
+`<label>`: One of the typical things you need to do is add a "label" to your `<input>`, labels tell the end-user what the input stands for.
 
 `<fieldset>`: They are ideal to add several inputs into the same logical group (for example grouping radios -male and female- into a gender fieldset).
 
@@ -10,21 +10,21 @@ Styling a form is boring and tedious, but if you use certain tags, your life can
 
 ## 📝 Instructions:
 
-1. Give style to this form by applying to the body:
+1. Give style to this form by applying this font to the `<body>`:
 
 ```css
 font-family: "Lato", sans-serif;
 ```
 
-2. Remove `borders` and `margins` from all the fieldsets. 
+2. Remove `borders` and `margins` from all the `<fieldset>` tags. 
 
-3. Apply a `padding` of `10px` to the top and bottom and a `padding` of `0px` to the left and right to all the fieldsets. 
+3. Apply a `padding` of `10px` to the top and bottom and a `padding` of `0px` to the left and right of all the `<fieldset>` tags. 
 
-4. Apply a `font-weight` of `800` to all the fieldsets.
+4. Apply a `font-weight` of `800` to all the `<fieldset>` tags.
 
-5. Decrease the `font-weight` off all the labels to `400`.
+5. Decrease the `font-weight` of all the `<label>` tags to `400`.
 
-6. Add a `width` of `500px` to the form element.
+6. Add a `width` of `500px` to the `<form>` tag.
 
 7. Apply these rules to all the text inputs:
 
