@@ -10,8 +10,8 @@
 
 + You can read about a typical website structure here:
 
-https://content.breatheco.de/lesson/what-is-html-learn-html#page-structure
+https://4geeks.com/lesson/what-is-html-learn-html#page-structure
 
-### 📎 Note:
+## 📎 Note:
 
-The title is not going to show on the content of the website, it will show on the browser tab.
++ The title is not going to show on the content of the website, it will show on the browser tab.
