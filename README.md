@@ -71,7 +71,7 @@ $ learnpack start
 
 ## How are the exercises organized?
 
-Each exercise is a small React application containing the following files:
+Each exercise has a small React application containing the following files:
 
 1. **index.js:** represents the entry file for the entire exercise.
 2. **README.md:** contains exercise instructions.
