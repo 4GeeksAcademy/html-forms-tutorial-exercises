@@ -11,9 +11,7 @@ Estos ejercicios son para cualquier persona interesada en dominar los formulario
 
 3. Validaciones de formulario
 
-4. GET vs POST
-
-5. Dar estilos a un formulario
+4. Dar estilos a un formulario
 
 ## ➡️ Incremental & ✔️ Autoevaluado
 
