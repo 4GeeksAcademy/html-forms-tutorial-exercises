@@ -11,9 +11,7 @@ These exercises are for anyone interested in mastering HTML Forms, we will go ov
 
 3. Form preventive validations
 
-4. GET vs POST
-
-5. Styling a form
+4. Styling a form
 
 ## ➡️ Incremental & ✔️ Autograded
 
