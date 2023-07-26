@@ -1,4 +1,4 @@
-# `06` Fieldsets, labels and styles
+# `04` Fieldsets, labels and styles
 
 Darle estilo a un formulario es aburrido y tedioso, pero si usas ciertas etiquetas, tu vida puede ser más fácil. 
 
