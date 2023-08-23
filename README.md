@@ -22,9 +22,7 @@ Forms are so important in the world of HTML, CSS and JavaScript that I decided t
 
 3. Form preventive validations.
 
-4. GET vs POST.
-
-5. Styling a form.
+4. Styling a form.
 
 <!-- hide -->
 #### Before we start... other related tutorials
