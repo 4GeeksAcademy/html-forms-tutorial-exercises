@@ -10,11 +10,11 @@
 
 <h3>Start now: </h3>
 <a href="https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a>
-<!-- endhide -->
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/README.es.md) :es:*
+<!-- endhide -->
 
-Forms are so important in the world of HTML, CSS and Javascript that I decided to give them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn:
+Forms are so important in the world of HTML, CSS and JavaScript that I decided to give them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn:
 
 1. Using text inputs, text areas, date inputs and numeric inputs.
 
@@ -24,19 +24,18 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 
 4. GET vs POST.
 
-5. Styling a form
+5. Styling a form.
 
 <!-- hide -->
 #### Before we start... other related tutorials
+
 <ol>
   <li><a href="https://github.com/4GeeksAcademy/html-tutorial-exercises-course">Learn HTML</a></li>
-    <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">Learn HTML5 Forms</a>← your are here now</li>
+    <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">Learn HTML5 Forms</a>← 🔥 You are here now</li>
   <li><a href="https://github.com/4GeeksAcademy/css-tutorial-exercises-course">Learn CSS</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises">Learn CSS Layouts</a></li>
   <li><a href="https://github.com/4GeeksAcademy/bootstrap-exercises-tutorial">Learn Bootstrap</a></li>
 </ol>
-<p align="center">
-  <img src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/animation.gif?raw=true">
-</p>
 
 ## One click installation (recommended):
 
@@ -48,39 +47,39 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 Clone the repository in your local environment and follow the steps below:
 
-1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 14+:
+1. Install LearnPack, the package manager for learning tutorials and the HTML compiler plugin for LearnPack, make sure you also have node.js 14+:
 
-```
+```bash
 $ npm i learnpack -g
 $ learnpack plugins:install learnpack-html
 ```
 
-2. Download this particular exercises using learnpack and `cd` into the folder:
+2. Download these particular exercises using LearnPack and `cd` into the folder:
 
-```
+```bash
 $ learnpack download html-forms-tutorial-exercises
 $ cd html-forms-tutorial-exercises
 ```
 
-> Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
+> Note: Once you finish downloading, you will find an "exercises" folder that contains all the exercises within.
 
-3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
+3. Start the tutorial/exercises by running the following command at the same level where your learn.json file is:
 
-```sh
+```bash
 $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 <!-- endhide -->
 
-## How are the React Tutorial Exercises organized?
+## How are the exercises organized?
 
-Each exercise is a small react application containing the following files:
+Each exercise is a small React application containing the following files:
 
 1. **index.js:** represents the entry file for the entire exercise.
 2. **README.md:** contains exercise instructions.
 3. **test.js:** you don't have to open this file, it contains the testing script for the exercise.
 
-> Note: The exercises have automatic grading, but it's very rigid and string, my recommendation is to ignore the tests and use them only as a recommendation, or you can get frustrated :(
+> Note: The exercises have automatic grading, but it's very rigid and strict, my recommendation is to not take the tests too serious and use them only as a suggestion, or you may get frustrated.
 
 ## Contributors
 

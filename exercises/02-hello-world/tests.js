@@ -8,7 +8,7 @@ describe('basic HTML structure', function () {
     beforeEach(() => { document.documentElement.innerHTML = html.toString(); });
     afterEach(() => { jest.resetModules(); });
 
-     it('order of HTML tags', function () {
+     it('Correct order of HTML tags', function () {
         let a = document.documentElement.innerHTML = html.toString()
         let b = a.indexOf("<!DOCTYPE html>")
         let c = a.indexOf("<html")
@@ -28,15 +28,15 @@ describe('basic HTML structure', function () {
      let a = document.documentElement.innerHTML = html.toString()
            expect(a.indexOf("<!DOCTYPE html>")).not.toBe(-1)
     })
-    it('<html> tag should exists', function () {
+    it('<html> tag should exist', function () {
      let a = document.documentElement.innerHTML = html.toString()
            expect(a.indexOf("<html")).not.toBe(-1)
     })
-        it('<head> tag should exists', function () {
+        it('<head> tag should exist', function () {
      let a = document.documentElement.innerHTML = html.toString()
            expect(a.indexOf("<head>")).not.toBe(-1)
     })
-    it('<title> tag exists and the innerHTML needs to be "Hello World"', function () {
+    it('<title> tag exists and the innerHTML should be "Hello World"', function () {
      let a = document.documentElement.innerHTML = html.toString()
            expect(a.indexOf("<title>")).not.toBe(-1)
            expect(document.querySelector("title").innerHTML).toBe("Hello World")
