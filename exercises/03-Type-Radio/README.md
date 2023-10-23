@@ -12,6 +12,6 @@ To bind different radios into the same group of options you need to assign them 
 
 ## 💡 Hints:
 
-+ Search about `<input>` and `<label>` tags.
++ Please use your broswer search engine to learn about `<input>` and `<label>` tags.
 
 + Test your form, only one gender and one sexual orientation should be allowed to pick.
