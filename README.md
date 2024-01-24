@@ -14,15 +14,17 @@
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/README.es.md) :es:*
 <!-- endhide -->
 
-Forms are so important in the world of HTML, CSS and JavaScript that I decided to give them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn:
+Forms are so important in the world of HTML, CSS and Javascript that I decided to give them a special course to focus in all the inputs, buttons and elements that HTML brings by default to focus on interaction. During these exercises you will learn the following:
 
-1. Using text inputs, text areas, date inputs and numeric inputs.
+1. How to use text inputs, text areas, date inputs and numeric inputs.
 
-2. Using dropdowns.
+2. How to use dropdowns.
 
-3. Form preventive validations.
+3. How to form preventive validations.
 
-4. Styling a form.
+4. The difference between GET and POST.
+
+5. Styling a form.
 
 <!-- hide -->
 #### Before we start... other related tutorials
