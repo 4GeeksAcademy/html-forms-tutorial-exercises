@@ -1,22 +1,28 @@
 body {
 	font-family: "Lato", sans-serif;
 }
+
+form {
+	display: inline-block;
+}
+
 fieldset {
 	border: none;
 	margin: 0;
-	padding: 10px 0;
+	padding: 10px 0px;
 	font-weight: 800;
 }
-labels {
+
+label {
 	font-weight: 400;
 }
-input[type="text"],
-input[type="tel"],
-input[type="url"] {
+
+input[type="text"] {
 	border: none;
 	border-bottom: 1px solid black;
 	font-size: 16px;
 }
+
 input[type="submit"] {
 	cursor: pointer;
 	border: none;

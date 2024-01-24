@@ -1,11 +1,15 @@
-form * {
-	border: none;
-	margin: 0;
-}
-
 body {
 	font-family: "Lato", sans-serif;
-	padding: 10px 0px;
+}
+
+form {
+	display: inline-block;
+}
+
+fieldset {
+	border: none;
+	margin: 0;
+	padding: 10px 0;
 	font-weight: 800;
 }
 
@@ -13,7 +17,10 @@ label {
 	font-weight: 400;
 }
 
-input[type="text"] {
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="url"] {
 	border: none;
 	border-bottom: 1px solid black;
 	font-size: 16px;

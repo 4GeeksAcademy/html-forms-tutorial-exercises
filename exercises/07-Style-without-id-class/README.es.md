@@ -1,12 +1,12 @@
-# `08` Estilo sin identificación ni clase
+# `07` Style without ID or Class
 
 Aquí tienes un hermoso formulario de inscripción, puedes leer el código para entender cómo se hizo.
 
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
 Reemplaza todos los selectores `.class` y `#id` del `index.html` y sustitúyelos por otros tipos de selectores para lograr la misma referencia. Por ejemplo:
 
-Para este html:
+Para este HTML:
 
 ```html
 <div><a class="myAnchor">Aquí hay un anchor</a></div>
@@ -15,17 +15,13 @@ Para este html:
 En lugar de:
 
 ```css
-<style>
-.myAnchor{ background: red; }
-</style>
+.myAnchor { background: red; }
 ```
 
 Podrías hacer esto:
 
 ```css
-<style>
-a{ background:red;}
-</style>
+a { background:red; }
 ```
 
 El único selector de clase que puedes seguir usando es `.active`.
