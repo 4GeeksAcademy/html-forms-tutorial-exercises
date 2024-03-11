@@ -1,6 +1,6 @@
 # `04` Fieldsets, labels and styles
 
-Styling a form is boring and tedious, but if you use certain tags, your life can be easier. 
+Styling a form is boring and tedious, but if you use certain tags, your life can be easier.
 
 `<label>`: One of the typical things you need to do is add a "label" to your `<input>`, labels tell the end-user what the input stands for.
 
@@ -13,11 +13,10 @@ Styling a form is boring and tedious, but if you use certain tags, your life can
 1. Give style to this form by applying this font to the `<body>`:
 
 ```css
-font-family: "Lato", sans-serif;
+font-family: 'Lato', sans-serif;
 ```
 
 2. Set the `display` of the `<form>` tag to `inline-block`.
-   
 3. Remove `borders` and `margins` from all the `<fieldset>` tags.
 
 4. Apply a `padding` of `10px` to the top and bottom and a `padding` of `0px` to the left and right of all the `<fieldset>` tags.
@@ -29,19 +28,19 @@ font-family: "Lato", sans-serif;
 7. Apply these rules to all the text inputs:
 
 ```css
-input[type=text] {
-	border: none;
-	border-bottom: 1px solid black;
-	font-size: 16px;
+input[type='text'] {
+  border: 0;
+  border-bottom: 1px solid black;
+  font-size: 16px;
 }
 ```
 
 8. Apply this style to the submit button:
 
 ```css
-input[type=submit] {
+input[type='submit'] {
   cursor: pointer;
-  border: none;
+  border: 0;
   padding: 10px;
   background-color: #f65252;
   color: white;

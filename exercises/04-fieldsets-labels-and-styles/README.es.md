@@ -1,6 +1,6 @@
 # `04` Fieldsets, labels and styles
 
-Darle estilo a un formulario es aburrido y tedioso, pero si usas ciertas etiquetas, tu vida puede ser más fácil. 
+Darle estilo a un formulario es aburrido y tedioso, pero si usas ciertas etiquetas, tu vida puede ser más fácil.
 
 `<label>`: Una de las cosas recurrentes que debes hacer es agregar una etiqueta `<label>`. Las etiquetas `<label>` se suelen poner junto a un `<input>` y le dicen al usuario qué representa esa entrada/input.
 
@@ -13,12 +13,12 @@ Darle estilo a un formulario es aburrido y tedioso, pero si usas ciertas etiquet
 1. Da estilo al formulario aplicando al `<body>` esta fuente:
 
 ```css
-font-family: "Lato", sans-serif;
+font-family: 'Lato', sans-serif;
 ```
 
 2. Establece el `display` de la etiqueta `<form>` a `inline-block`.
 
-3. Elimina los bordes (`border`) y los márgenes (`margin`) de todos los `<fieldset>`. 
+3. Elimina los bordes (`border`) y los márgenes (`margin`) de todos los `<fieldset>`.
 
 4. Aplica un relleno (`padding`) de `10px` en la parte superior e inferior y de `0px` a la izquierda y derecha de todos los `<fieldset>`
 
@@ -29,19 +29,19 @@ font-family: "Lato", sans-serif;
 7. Aplica estas reglas a todas las entradas (inputs) de texto.
 
 ```css
-input[type=text] {
-	border: none;
-	border-bottom: 1px solid black;
-	font-size: 16px;
+input[type='text'] {
+  border: 0;
+  border-bottom: 1px solid black;
+  font-size: 16px;
 }
 ```
 
 8. Aplica este estilo al botón de envío (submit button).
 
 ```css
-input[type=submit] {
+input[type='submit'] {
   cursor: pointer;
-  border: none;
+  border: 0;
   padding: 10px;
   background-color: #f65252;
   color: white;
