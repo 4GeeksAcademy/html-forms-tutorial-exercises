@@ -75,7 +75,7 @@ $ learnpack start
 
 Each exercise is a small React application containing the following files:
 
-1. **index.js:** represents the entry file for the entire exercise.
+1. **index.html:** represents the entry file for the entire exercise.
 2. **README.md:** contains exercise instructions.
 3. **test.js:** you don't have to open this file, it contains the testing script for the exercise.
 
