@@ -1,7 +1,7 @@
 
 # `01` Welcome to the world of HTML 😆 !!
 
-Hello, my name is [Alejandro Sánchez](http://alesanchezr.com), and I'm one of the founders of @4GeeksAcademy. These exercises and many other interactive tutorials have been open sourced and released to the public for free through the [4Geeks Website](www.4geeks.com).
+Hello, my name is [Alejandro Sánchez](http://alesanchezr.com), and I'm one of the founders of @4GeeksAcademy. These exercises and many other interactive tutorials have been open sourced and released through the [4Geeks Website](https://4geeks.com).
 
 These exercises are for anyone interested in mastering HTML Forms, we will go over the following concepts:
 

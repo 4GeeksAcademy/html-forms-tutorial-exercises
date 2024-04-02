@@ -1,7 +1,7 @@
 
 # `01` Welcome to the world of HTML 😆 !!
 
-Hola, mi nombre es [Alejandro Sánchez](http://alesanchezr.com) y soy uno de los fundadores de @4GeeksAcademy (bootcamp de programación). Estos ejercicios y muchos otros tutoriales interactivos se han liberado al público gratuitamente a través del [Sitio web de 4Geeks](www.4geeks.com).
+Hola, mi nombre es [Alejandro Sánchez](http://alesanchezr.com) y soy uno de los fundadores de @4GeeksAcademy (bootcamp de programación). Estos ejercicios y muchos otros tutoriales interactivos se han liberado al público a través del [Sitio web de 4Geeks](https://4geeks.com).
 
 Estos ejercicios son para cualquier persona interesada en dominar los formularios HTML. Vamos a abordar los siguientes conceptos:
 
