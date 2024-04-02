@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=k4-CNHgO_1s"
+---
+
 # `06` Replicate Simple Form
 
 ## 📝 Instructions:
