@@ -8,7 +8,7 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/README.es.md) :es:*
+> *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/README.es.md) :es:*
 
 <h3>Start now: </h3>
 
