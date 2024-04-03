@@ -9,7 +9,8 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 <h3>Start now: </h3>
-<a href="https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a>
+
+You can open these exercises [in one click using codespaces or gitpod](https://s.4geeks.com/v1/provisioning/public/container/new?repo=https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git).
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/README.es.md) :es:*
 <!-- endhide -->
