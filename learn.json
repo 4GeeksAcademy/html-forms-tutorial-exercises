@@ -10,7 +10,10 @@
         "es": "Validaciones de formularios, inputs, areas de texto (textarea), inputs de fechas, etc."
     },
     "video": {
-        "intro": "https://www.youtube.com/watch?v=83HxtkBq7Yc",
+        "intro": {
+            "us": "https://www.youtube.com/watch?v=83HxtkBq7Yc",
+            "en": "https://www.youtube.com/watch?v=83HxtkBq7Yc"
+        },
         "solution": null
     },
     "difficulty": "easy",
