@@ -1,31 +1,34 @@
 {
-    "slug": "html-forms-tutorial-exercises",
-    "title": {
-        "us": "Learn how to use and interact with HTML Forms",
-        "es": "Aprende cómo usar e interactuar con Formularios en HTML"
-    },
-    "preview": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/preview.jpeg?raw=true",
-    "description": {
-        "us": "Form validations, inputs, textarea, date inputs, etc.",
-        "es": "Validaciones de formularios, inputs, areas de texto (textarea), inputs de fechas, etc."
-    },
-    "video": {
-            "intro": {
-                "en": "https://www.youtube.com/watch?v=83HxtkBq7Yc",
-                "en": "https://www.youtube.com/watch?v=83HxtkBq7Yc"
-            }
-    },
-    "difficulty": "easy",
-    "language": "html",
-    "skills": ["html-forms"],
-    "videoSolutions": true,
-    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-    "projectType": "tutorial",
-    "repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises",
-    "config": {
-        "disableGrading": true,
-        "editor": {
-            "version": "3.1.23"
+"slug": "html-forms-tutorial-exercises",
+"title": {
+    "us": "Learn how to use and interact with HTML Forms",
+    "es": "Aprende cómo usar e interactuar con Formularios en HTML"
+},
+"preview": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/preview.jpeg?raw=true",
+"description": {
+    "us": "Form validations, inputs, textarea, date inputs, etc.",
+    "es": "Validaciones de formularios, inputs, areas de texto (textarea), inputs de fechas, etc."
+},
+"video": {
+        "intro": {
+            "en": "https://www.youtube.com/watch?v=83HxtkBq7Yc"
         }
+},
+"difficulty": "easy",
+"language": "html",
+"skills": ["html-forms"],
+"videoSolutions": true,
+"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+"projectType": "tutorial",
+"repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises",
+"config": {
+    "disableGrading": true,
+    "editor": {
+        "version": "3.1.36"
     }
+   
+},
+ "telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+}
 }
