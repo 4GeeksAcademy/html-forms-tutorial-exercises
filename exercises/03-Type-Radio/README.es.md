@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=FnU4xUkNHh0"
+---
+
 # `03` Type Radio 
 
 El campo `input type=radio` se usa cuando el usuario solo puede escoger una opción y no más.
