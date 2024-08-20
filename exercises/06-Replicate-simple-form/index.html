@@ -1,22 +1,67 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>4Geeks Academy</title>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>4Geeks Academy</title>
+		<style>
+			/* your code here */
+			* {
+				font-family: "Times New Roman", Times, serif;
+			}
+			table {
+				border-style: double;
+			}
+			.primary {
+				background-color: slateblue;
+			}
+			.btn {
+				align-items: center;
+			}
+		</style>
+	</head>
 
-    <style>
-        /* your code here */
-        
-    </style>
-</head>
-
-<body>
-    <form>
-        <!-- your code here -->
-        
-    </form>
-</body>
-
+	<body>
+		<form>
+			<!-- your code here -->
+			<table>
+				<tr class="primary">
+					<th><strong>Name</strong></th>
+					<th><strong>Value</strong></th>
+				</tr>
+				<tr>
+					<td>Name</td>
+					<td><input type="name" /></td>
+				</tr>
+				<tr>
+					<td>Sex</td>
+					<td>
+						<input type="checkbox" name="Sex" id="Male" /> Male <br />
+						<input type="checkbox" name="Sex" id="Female" /> Female
+					</td>
+				</tr>
+				<tr>
+					<td>Eye Color</td>
+					<td>
+						<input type="color" name="Color" id="color" />
+					</td>
+				</tr>
+				<tr>
+					<td>Check all that apply</td>
+					<td>
+						<input type="checkbox" name="Over" id="6feet" /> Over 6 feet tall <br />
+						<input type="checkbox" name="Over" id="200pounds" /> Over 200 pounds
+					</td>
+				</tr>
+			</table>
+			<tr>
+				<td>Describe your athletic ability: <br /></td>
+			</tr>
+			<input type="text" />
+			<tr>
+				<td><input class="btn" type="button" value="Enter my information" /></td>
+			</tr>
+		</form>
+	</body>
 </html>
