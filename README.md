@@ -52,14 +52,13 @@ Clone the repository in your local environment and follow the steps below:
 1. Install LearnPack, the package manager for learning tutorials and the HTML compiler plugin for LearnPack, make sure you also have node.js 14+:
 
 ```bash
-$ npm i learnpack -g
-$ learnpack plugins:install learnpack-html
+$ npm i @learnpack/learnpack-cli -g
 ```
 
 2. Download these particular exercises using LearnPack and `cd` into the folder:
 
 ```bash
-$ learnpack download html-forms-tutorial-exercises
+$ git clone https://github.com/4GeeksAcademy/html-forms-tutorial-exercises
 $ cd html-forms-tutorial-exercises
 ```
 
@@ -68,7 +67,6 @@ $ cd html-forms-tutorial-exercises
 3. Start the tutorial/exercises by running the following command at the same level where your learn.json file is:
 
 ```bash
-$ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 <!-- endhide -->
