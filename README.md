@@ -52,7 +52,7 @@ Clone the repository in your local environment and follow the steps below:
 1. Install LearnPack, the package manager for learning tutorials and the HTML compiler plugin for LearnPack, make sure you also have node.js 14+:
 
 ```bash
-$ npm i @learnpack/learnpack-cli -g
+$ npm i @learnpack/learnpack -g
 ```
 
 2. Download these particular exercises using LearnPack and `cd` into the folder:
