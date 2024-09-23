@@ -9,8 +9,6 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-### Empieza ahora
-<a href="https://gitpod.io#https://github.com/4GeeksAcademy/html-forms-tutorial-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a>
 <!-- endhide -->
 
 Los formularios son tan importantes en el mundo de HTML, CSS y JavaScript que decidí dedicarles un tutorial especial para enfocarme en todas las entradas/inputs, botones y elementos que HTML trae por defecto para centrarme en la interacción. En estos ejercicios aprenderás:
