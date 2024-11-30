@@ -5,20 +5,27 @@ body {
 form {
 	display: inline-block;
 }
+
 fieldset {
 	border: none;
-	margin: none;
-	padding: 10px 0px;
+	margin: 0;
+	padding: 10px 0;
 	font-weight: 800;
 }
+
 label {
 	font-weight: 400;
 }
-input[type="text"] {
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="url"] {
 	border: none;
 	border-bottom: 1px solid black;
 	font-size: 16px;
 }
+
 input[type="submit"] {
 	cursor: pointer;
 	border: none;
