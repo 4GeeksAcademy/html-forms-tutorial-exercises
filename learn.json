@@ -31,6 +31,6 @@
         "version": "4.0"
     },
  "telemetry": {
-        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=150"
 }
 }
