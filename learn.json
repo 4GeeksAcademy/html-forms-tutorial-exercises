@@ -6,8 +6,8 @@
 },
 "preview": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/preview.jpeg?raw=true",
 "description": {
-    "us": "Form validations, inputs, textarea, date inputs, etc.",
-    "es": "Validaciones de formularios, inputs, areas de texto (textarea), inputs de fechas, etc."
+    "us": "Master the art of HTML forms with interactive exercises that cover text inputs, text areas, date and numeric inputs, dropdowns, and more. Learn form validation, styling, and the key differences between GET and POST methods. Perfect for enhancing your front-end skills with incremental, autograded challenges.",
+    "es": "Domina el arte de los formularios HTML con ejercicios interactivos que abarcan entradas de texto, áreas de texto, entradas de fecha y números, menús desplegables y más. Aprende validación de formularios, estilos y las diferencias clave entre los métodos GET y POST. Ideal para mejorar tus habilidades frontend con retos progresivos y autocalificados."
 },
 "video": {
         "intro": {
@@ -22,13 +22,15 @@
 "videoSolutions": true,
 "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 "projectType": "tutorial",
+"autoPlay": "true",
 "repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises",
 "config": {
     "disableGrading": true
    
 },
 "editor": {
-        "version": "4.0"
+        "version": "4.0",
+        "agent": "vscode"
     },
  "telemetry": {
         "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=150"
