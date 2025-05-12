@@ -1,0 +1,28 @@
+body {
+	font-family: "Lato", sans-serif;
+}
+form {
+	display: inline-block;
+}
+fieldset {
+	border: none;
+	margin: none;
+	padding: 10px 0px;
+	font-weight: 800;
+}
+label {
+	font-weight: 400;
+}
+input[type="text"] {
+	border: none;
+	border-bottom: 1px solid black;
+	font-size: 16px;
+}
+input[type="submit"] {
+	cursor: pointer;
+	border: none;
+	padding: 10px;
+	background-color: #f65252;
+	color: white;
+	width: 100%;
+}
