@@ -1,22 +1,88 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>4Geeks Academy</title>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>4Geeks Academy</title>
+		<style>
+			/* your code here */
+			table td,
+			table th {
+				border: 1px solid black;
+			}
+			table th {
+				background-color: #ac9bec;
+			}
+			submit-tr {
+				text-align: center;
+			}
+			submit-tr {
+				text-align: center;
+			}
+			button {
+				margin: auto;
+				display: block;
+			}
+		</style>
+	</head>
 
-    <style>
-        /* your code here */
-        
-    </style>
-</head>
+	<body>
+		<form>
+			<!-- your code here -->
+			<table>
+				<tr>
+					<th>Name</th>
+					<th>Value</th>
+				</tr>
+				<tr>
+					<td>Name</td>
+					<td><input type="text" name="" id="" /></td>
+				</tr>
+				<tr>
+					<td>Sex</td>
+					<td>
+						<lable>Male</lable>
+						<input type="radio" name="sex" id="" />
+						<br />
+						<label>Female</label>
+						<input type="radio" name="sex" id="" />
+					</td>
+				</tr>
+				<tr>
+					<td>Eye Color</td>
+					<td>
+						<select name="" id="">
+							<option value="green">green</option>
+							<option value="blue">blue</option>
+							<option value="brown">brown</option>
+							<option value="black">black</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>Cheack all that apply</td>
+					<td>
+						<label for="height">Over 6 feet tall</label>
+						<input type="checkbox" name="" id="" />
+						<br />
+						<label for="weight">Over 200 pounds</label>
+						<input type="checkbox" name="" id="" />
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						Describe your athletic ability: <br />
+						<textarea name="" id="" cols="50" rows="10"></textarea>
+					</td>
+				</tr>
 
-<body>
-    <form>
-        <!-- your code here -->
-        
-    </form>
-</body>
-
+				<tr class="submit-tr">
+					<td colspan="2">
+						<button>Enter my information</button>
+					</td>
+				</tr>
+			</table>
+		</form>
+	</body>
 </html>
