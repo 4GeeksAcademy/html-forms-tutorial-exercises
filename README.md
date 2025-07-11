@@ -18,7 +18,7 @@ Forms are so important in the world of HTML, CSS and Javascript that I decided t
 
 2. How to use dropdowns.
 
-3. How to form preventive validations.
+3. 3. How to perform preventive validations.
 
 4. The difference between GET and POST.
 
