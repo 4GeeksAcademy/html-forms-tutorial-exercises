@@ -1,5 +1,5 @@
 <!-- hide -->
-# Tutorial & Ejercicios de Formularios HTML5 
+# Tutorial y Ejercicios de Formularios HTML5 
 
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises/blob/master/.learn/assets/badge.png?raw=true"></a>
 
