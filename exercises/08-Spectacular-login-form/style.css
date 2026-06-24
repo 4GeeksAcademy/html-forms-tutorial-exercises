@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: white;
+}
+.login {
+	background-color: rgb(2, 2, 107);
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+	margin-top: 25px;
+	display: flex;
+	flex-direction: column;
+	gap: 13px;
+}
+form input,
+form button {
+	width: 400px;
+	padding: 10px;
+	border: none;
+	border-radius: 8px;
+}
+input {
+	background-color: #051a3d;
+}
+button {
+	background-color: #1986da;
+}
